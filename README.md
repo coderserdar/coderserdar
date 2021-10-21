@@ -39,4 +39,4 @@ I have experience in some coding, analysing and designing technologies below;
 	
 # Contact
 
-You can communicate with me via [E-Mail](serdargul@outlook.com) or [LinkedIn](https://www.linkedin.com/in/serdar-g%C3%BCl-ba5352126/) or [Stack Overflow](https://stackoverflow.com/users/17190208/serdar-gul). I am planning to use this platform more efficiently, so if you follow me, we can share information to write more good, secure, efficient, funny codes.
+You can communicate with me via [E-Mail](mailto:serdargul@outlook.com) or [LinkedIn](https://www.linkedin.com/in/serdar-g%C3%BCl-ba5352126/) or [Stack Overflow](https://stackoverflow.com/users/17190208/serdar-gul). I am planning to use this platform more efficiently, so if you follow me, we can share information to write more good, secure, efficient, funny codes.
