@@ -1,5 +1,7 @@
 # Hi everybody, 👋 I'm Serdar
 
+<h2 align="center">Team Lead at Agartha Teknoloji, Full Stack .NET Developer</h2>
+
 # About Me
 
 I am a *computer engineer* graduated from **Hacettepe University Computer Science Engineering** in 2009.
