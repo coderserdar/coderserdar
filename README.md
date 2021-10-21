@@ -1,4 +1,4 @@
-# Hi everybody, 👋 I'm Serdar
+# <h1 align="center">Hi everybody, 👋 I'm Serdar</h1>
 
 <h2 align="center">Team Lead at Agartha Teknoloji, Full Stack .NET Developer</h2>
 
