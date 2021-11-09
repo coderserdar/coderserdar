@@ -38,6 +38,18 @@ I have experience in some coding, analysing and designing technologies below;
     + [TortoiseSVN](https://tortoisesvn.net/), TFS, Git
  - **Project Management Tools for TeamWork**
     + [Redmine](https://www.redmine.org/), [JIRA](https://www.atlassian.com/software/jira), [Asana](https://app.asana.com/), [Quire](https://quire.io/) etc.
+
+# Organizations
+
+I've *analyzed, designed and created* some kind of **Windows, Web, Service Applications** for the organizations below;
+
+- [Turkish National Police](https://www.egm.gov.tr/)
+- [Ministry Of Environment And Urbanization](https://csb.gov.tr/)
+- [General Directorate of State Hydraulic Works](https://www.dsi.gov.tr/)
+- [Turkish Sugar Factories](https://www.turkseker.gov.tr/)
+- [National Defense Department Liquid Fuel Organization](https://www.ant.gov.tr/)
+- [General Directorate Of Public Health](https://hsgm.saglik.gov.tr/tr/)
+- [Almila Group Transportation](https://www.almilagrup.com.tr/)
 	
 # Contact
 
