@@ -4,7 +4,7 @@
 
 # About Me
 
-I am a *computer engineer* graduated from **Hacettepe University Computer Science Engineering** in 2009.
+I am a *computer engineer* graduated from **Hacettepe University Computer Science Engineering** in 2009 February.
 
 Except the lessons in school, I started coding with **Delphi** (*Object Pascal*) programming language. Nowadays, a lot of people think that Delphi is an *ancient* programming language and that's nonsense to write with this language, but I have *special feelings* to this language.
 
@@ -43,14 +43,14 @@ I have experience in some coding, analysing and designing technologies below;
 
 I've *analyzed, designed and created* some kind of **Windows, Web, Service Applications** for the organizations below;
 
-- [Turkish National Police](https://www.egm.gov.tr/)
+- [Turkish National Police Department](https://www.egm.gov.tr/)
 - [Ministry Of Environment And Urbanization](https://csb.gov.tr/)
 - [General Directorate of State Hydraulic Works](https://www.dsi.gov.tr/)
-- [Turkish Sugar Factories](https://www.turkseker.gov.tr/)
+- [General Directorate of Turkish Sugar Factories](https://www.turkseker.gov.tr/)
 - [National Defense Department Liquid Fuel Organization](https://www.ant.gov.tr/)
 - [General Directorate Of Public Health](https://hsgm.saglik.gov.tr/tr/)
 - [Almila Group Transportation](https://www.almilagrup.com.tr/)
-	
+   
 # Contact
 
 You can communicate with me via [E-Mail](mailto:serdargul@outlook.com) or [LinkedIn](https://www.linkedin.com/in/serdar-g%C3%BCl-ba5352126/) or [Stack Overflow](https://stackoverflow.com/users/17190208/serdar-gul). I am planning to use this platform more efficiently, so if you follow me, we can share information to write more good, secure, efficient, funny codes.
