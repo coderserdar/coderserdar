@@ -34,6 +34,16 @@ I have experience in some coding, analysing and designing technologies below;
     + [Balsamiq Mockups-WireFrames](https://balsamiq.com/wireframes/) (*for designing draft interfaces of an app*)
     + [ModelRight](https://modelright.com/) (*for database designing*)
     + [Enterprise Architect](https://sparxsystems.com/products/ea/index.html) (*for designing class hierarchy*) etc.
+ - **DB Tools**
+    + [ESF Database Migration Toolkit](https://www.dbsofts.com) (*Database Migration toolkit, so useful to send data from one db to another*) etc.
+    + [Database .NET](https://fishcodelib.com/database.htm) (*One basic tool to connect multiple types of databases like Oracle, PostgreSql, MS Sql with one screen*) etc.
+    + [DataGrip](https://www.jetbrains.com/datagrip/) (*One basic tool to connect multiple types of databases like Oracle, PostgreSql, MS Sql with one screen, but more complex*) etc.
+ - **Other Tools**
+    + [WakaTime](https://wakatime.com/) (*for taking statistics for writing code or queries etc, supports many IDEs and Text Editors*)
+    + [CodeStats](https://codestats.net) (*similar tool like Wakatime*)
+    + [KeyNote NF](https://sourceforge.net/projects/keynote-newfeat/) (*excellent free software for note taking*)
+    + [ReSharper](https://www.jetbrains.com/resharper/) (*helpful tool for increasing coding speed and security*)
+    + [DotPeek](https://www.jetbrains.com/decompiler/) (*helpful tool for decompiling .NET apps, exe files of dll files*)
  - **Code Version Systems**
     + [TortoiseSVN](https://tortoisesvn.net/), TFS, Git
  - **Project Management Tools for TeamWork**
@@ -43,7 +53,7 @@ I have experience in some coding, analysing and designing technologies below;
 
 I've *analyzed, designed and created* some kind of **Windows, Web, Service Applications** for the organizations below;
 
-- [Turkish National Police Department](https://www.egm.gov.tr/)
+- [General Directorate of Turkish National Police](https://www.egm.gov.tr/)
 - [Ministry Of Environment And Urbanization](https://csb.gov.tr/)
 - [General Directorate of State Hydraulic Works](https://www.dsi.gov.tr/)
 - [General Directorate of Turkish Sugar Factories](https://www.turkseker.gov.tr/)
