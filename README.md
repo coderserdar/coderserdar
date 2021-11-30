@@ -65,3 +65,5 @@ I've *analyzed, designed and created* some kind of **Windows, Web, Service Appli
 # Contact
 
 You can communicate with me via [E-Mail](mailto:serdargul@outlook.com) or [LinkedIn](https://www.linkedin.com/in/serdar-g%C3%BCl-ba5352126/) or [Stack Overflow](https://stackoverflow.com/users/17190208/serdar-gul). I am planning to use this platform more efficiently, so if you follow me, we can share information to write more good, secure, efficient, funny codes.
+
+[![wakatime](https://wakatime.com/badge/user/5e5e2302-4feb-4aa0-be3d-f976ea06173d.svg)](https://wakatime.com/@5e5e2302-4feb-4aa0-be3d-f976ea06173d)
