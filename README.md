@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/5e5e2302-4feb-4aa0-be3d-f976ea06173d.svg)](https://wakatime.com/@5e5e2302-4feb-4aa0-be3d-f976ea06173d) ![GitHub followers](https://img.shields.io/github/followers/coderserdar?style=social) 
+
 # <h1 align="center">Hi everybody, 👋 I'm Serdar</h1>
 
 <h2 align="center">Team Lead at Agartha Teknoloji, Full Stack .NET Developer</h2>
@@ -66,9 +68,8 @@ I've *analyzed, designed and created* some kind of **Windows, Web, Service Appli
 
 You can communicate with me via [E-Mail](mailto:serdargul@outlook.com) or [LinkedIn](https://www.linkedin.com/in/serdar-g%C3%BCl-ba5352126/) or [Stack Overflow](https://stackoverflow.com/users/17190208/serdar-gul). I am planning to use this platform more efficiently, so if you follow me, we can share information to write more good, secure, efficient, funny codes.
 
-# Some Badges
+# Some Badges Introduces Me
 
-[![wakatime](https://wakatime.com/badge/user/5e5e2302-4feb-4aa0-be3d-f976ea06173d.svg)](https://wakatime.com/@5e5e2302-4feb-4aa0-be3d-f976ea06173d) ![GitHub followers](https://img.shields.io/github/followers/coderserdar?style=social) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
