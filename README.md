@@ -45,6 +45,7 @@ I have experience in some coding, analysing and designing technologies below;
     + [CodeStats](https://codestats.net) (*similar tool like Wakatime*)
     + [KeyNote NF](https://sourceforge.net/projects/keynote-newfeat/) (*excellent free software for note taking*)
     + [ReSharper](https://www.jetbrains.com/resharper/) (*helpful tool for increasing coding speed and security*)
+    + [CodeRush](https://www.devexpress.com/products/coderush/) (*helpful tool for increasing coding speed and security*)
     + [DotPeek](https://www.jetbrains.com/decompiler/) (*helpful tool for decompiling .NET apps, exe files of dll files*)
     + [Doc-O-Matic](https://www.doc-o-matic.com/en/index.html) (*excellent tool for source code documentation*)
  - **Code Version Systems**
