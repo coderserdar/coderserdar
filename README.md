@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/5e5e2302-4feb-4aa0-be3d-f976ea06173d.svg)](https://wakatime.com/@5e5e2302-4feb-4aa0-be3d-f976ea06173d) ![GitHub followers](https://img.shields.io/github/followers/coderserdar?style=social) ![Profile View Counter](https://komarev.com/ghpvc/?username=coderserdar)
 
-# <h1 align="center">Hi everybody, 👋 I'm Serdar</h1>
+# <h1 align="center">Hi everybody, ?? I'm Serdar</h1>
 
 <h2 align="center">Team Lead at Agartha Teknoloji, Full Stack .NET Developer</h2>
 
@@ -39,7 +39,8 @@ I have experience in some coding, analysing and designing technologies below;
  - **DB Tools**
     + [ESF Database Migration Toolkit](https://www.dbsofts.com) (*Database Migration toolkit, so useful to send data from one db to another*) etc.
     + [Database .NET](https://fishcodelib.com/database.htm) (*One basic tool to connect multiple types of databases like Oracle, PostgreSql, MS Sql with one screen*) etc.
-    + [DataGrip](https://www.jetbrains.com/datagrip/) (*One basic tool to connect multiple types of databases like Oracle, PostgreSql, MS Sql with one screen, but more complex*) etc.
+    + [DataGrip](https://www.jetbrains.com/datagrip/) (*One basic tool to connect multiple types of databases like Oracle, PostgreSql, MS Sql with one screen, but more complex*)
+    + [DBeaver](https://dbeaver.io) (*One basic tool to connect multiple types of databases like Oracle, PostgreSql, MS Sql with one screen. The difference between DataGrip is, this tool is freeware*) etc.
  - **Other Tools**
     + [WakaTime](https://wakatime.com/) (*for taking statistics for writing code or queries etc, supports many IDEs and Text Editors*)
     + [CodeStats](https://codestats.net) (*similar tool like Wakatime*)
