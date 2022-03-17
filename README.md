@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/5e5e2302-4feb-4aa0-be3d-f976ea06173d.svg)](https://wakatime.com/@5e5e2302-4feb-4aa0-be3d-f976ea06173d) ![GitHub followers](https://img.shields.io/github/followers/coderserdar?style=social) ![Profile View Counter](https://komarev.com/ghpvc/?username=coderserdar)
 
-# <h1 align="center">Hi everybody, ?? I'm Serdar</h1>
+# <h1 align="center">Hi everybody, 👋👋 I'm Serdar</h1>
 
 <h2 align="center">Team Lead at Agartha Teknoloji, Full Stack .NET Developer</h2>
 
