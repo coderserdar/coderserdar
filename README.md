@@ -1,4 +1,8 @@
 [![wakatime](https://wakatime.com/badge/user/5e5e2302-4feb-4aa0-be3d-f976ea06173d.svg)](https://wakatime.com/@5e5e2302-4feb-4aa0-be3d-f976ea06173d) ![GitHub followers](https://img.shields.io/github/followers/coderserdar?style=social) ![Profile View Counter](https://komarev.com/ghpvc/?username=coderserdar)
+<!-- <a href="https://stackoverflow.com/users/17190208/serdar-gul" target="_blank">
+<img alt="StackOverflow"
+src="https://stackoverflow-badge.vercel.app/?userID=17190208" />
+</a> -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -87,4 +91,4 @@ You can communicate with me via
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> &nbsp;
 
-</p> 
+</p>
