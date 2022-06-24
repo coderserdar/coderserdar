@@ -18,6 +18,10 @@ src="https://stackoverflow-badge.vercel.app/?userID=17190208" />
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
+# Statistics
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coderserdar&theme=blue-green)  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=coderserdar&show_icons=true)
+
 # Organizations
 
 I've *analyzed, designed and created* some kind of **Windows, Web, Service Applications** for the organizations below;
