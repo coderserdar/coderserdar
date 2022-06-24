@@ -12,16 +12,22 @@ src="https://stackoverflow-badge.vercel.app/?userID=17190208" />
 
 # Experiences & Tools
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+<div align="center">
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=social&logo=c-sharp&logoColor=red) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=social&logo=.net&logoColor=red) 
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat&logo=Rider&logoColor=white&color=black&labelColor=crimson) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=social&logo=javascript&logoColor=red) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=social&logo=jquery&logoColor=red) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=social&logo=bootstrap&logoColor=red) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=social&logo=css3&logoColor=red) 
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=flat&logo=Quora&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=social&logo=oracle&logoColor=red) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=social&logo=microsoft%20sql%20server&logoColor=red) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=social&logo=postgresql&logoColor=red) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=social&logo=sqlite&logoColor=red) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=social&logo=mysql&logoColor=red)
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=Linux%20Mint&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=social&logo=visual-studio&logoColor=red) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=social&logo=intellij-idea&logoColor=red) ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=social&logo=Rider&logoColor=red&color=black&labelColor=crimson) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=social&logo=sublime-text&logoColor=red) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=social&logo=visual-studio-code&logoColor=red)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=social&logo=git&logoColor=red) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=social&logo=github&logoColor=red) ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=social&logo=Quora&logoColor=red) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=social&logo=stack-overflow&logoColor=red)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=social&logo=windows&logoColor=red) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=social&logo=Linux%20Mint&logoColor=red)
+
+</div>
 
 # Statistics
 
