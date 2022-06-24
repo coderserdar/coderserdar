@@ -10,7 +10,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=17190208" />
   </a>
 </h1>
 
-# Experiences & Interests
+# Experiences & Tools
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -20,7 +20,12 @@ src="https://stackoverflow-badge.vercel.app/?userID=17190208" />
 
 # Statistics
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coderserdar&theme=blue-green)  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=coderserdar&show_icons=true)
+<p align="center">
+	<a href="https://github.com/csehacademy">
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=coderserdar&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="coderserdar"/>
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderserdar&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="coderserdar"/>
+	</a>
+</p>
 
 # Organizations
 
