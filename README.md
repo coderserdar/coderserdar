@@ -12,7 +12,9 @@ src="https://stackoverflow-badge.vercel.app/?userID=17190208" />
 
 # Experiences & Tools
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png" alt="delphi" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoftsqlserver" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
+
+<!-- <div align="center">
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=social&logo=c-sharp&logoColor=black&logoWidth=20) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=social&logo=.net&logoColor=black&logoWidth=20) ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=social&logo=delphi&logoColor=black&logoWidth=20) ![PL-SQL](https://img.shields.io/badge/PLSQL-F80000?style=social&logo=oracle&logoColor=black&logoWidth=20)
 
@@ -27,7 +29,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=17190208" />
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=social&logo=windows&logoColor=black&logoWidth=20) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=social&logo=Linux%20Mint&logoColor=black&logoWidth=20)
 
-</div>
+</div> -->
 
 # Statistics
 
