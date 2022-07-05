@@ -34,7 +34,8 @@ src="https://stackoverflow-badge.vercel.app/?userID=17190208" />
 <p align="center">
 	<a href="https://github.com/coderserdar">
 		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=coderserdar&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="coderserdar"/>
-		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderserdar&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="coderserdar"/>
+		  <img height="180em" align="center" src="https://readme-jokes.vercel.app/api" alt="coderserdar"/>
+		  <!-- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderserdar&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="coderserdar"/> -->
 		 <!--  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderserdar&theme=dark" alt="coderserdar" /> -->
 	</a>
 </p>
