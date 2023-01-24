@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/5e5e2302-4feb-4aa0-be3d-f976ea06173d.svg)](https://wakatime.com/@5e5e2302-4feb-4aa0-be3d-f976ea06173d) ![GitHub followers](https://img.shields.io/github/followers/coderserdar?style=for-the-badge) ![Profile View Counter](https://komarev.com/ghpvc/?username=coderserdar)
+[![wakatime](https://wakatime.com/badge/user/5e5e2302-4feb-4aa0-be3d-f976ea06173d.svg)](https://wakatime.com/@5e5e2302-4feb-4aa0-be3d-f976ea06173d) ![GitHub followers](https://img.shields.io/github/followers/coderserdar?style=flat) ![Profile View Counter](https://komarev.com/ghpvc/?username=coderserdar)
 <!-- <a href="https://stackoverflow.com/users/17190208/serdar-gul" target="_blank">
 <img alt="StackOverflow"
 src="https://stackoverflow-badge.vercel.app/?userID=17190208" />
